@@ -1,13 +1,23 @@
-# skylv-seo-agent
+# Seo Agent
 
-seo agent - OpenClaw Skill
+> seo agent - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-seo-agent
 ```
 
-## Description
-An OpenClaw skill for seo agent.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-seo-agent
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
