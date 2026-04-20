@@ -1,8 +1,8 @@
 ---
 name: seo-agent
 slug: skylv-seo-agent
-version: 2.0.0
-description: "SEO 优化专家。关键词研究、内容优化、排名监控、技术 SEO 审计、竞品分析。集成 Google Keyword Planner、Search Console API。Triggers: seo, keyword research, search optimization, ranking, seo audit."
+version: 2.0.2
+description: SEO optimization expert. Keyword research, content optimization, ranking monitoring, and technical SEO auditing. Triggers: seo, search optimization, google ranking, keyword research.
 author: SKY-lv
 license: MIT
 tags: [seo, keyword, optimization, search, marketing]
